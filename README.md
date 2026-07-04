@@ -125,36 +125,6 @@ Based on the analysis:
 
 ---
 
-# ▶️ How to Run
-
-## Clone the repository
-
-```bash
-git clone https://github.com/yourusername/trader-performance-market-sentiment-analysis.git
-```
-
-## Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```
-notebook/Trader_Performance_Analysis.ipynb
-```
-
-Run all cells sequentially.
-
----
-
 # 📦 Requirements
 
 ```
