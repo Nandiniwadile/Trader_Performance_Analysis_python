@@ -1,8 +1,20 @@
-Datasets
-You will work with 2 datasets:
-1) Bitcoin Market Sentiment (Fear/Greed)
-Link: <"https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing">
+## 📂 Datasets
 
-2) Historical Trader Data (Hyperliquid)
-Link: <"https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing">
+This project uses the following datasets:
+
+### 1. Bitcoin Market Sentiment (Fear & Greed Index)
+
+This dataset contains the daily Bitcoin market sentiment classification (Fear or Greed), which is used to analyze its relationship with trader performance.
+
+**Source:**  
+https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
+---
+
+### 2. Historical Trader Data (Hyperliquid)
+
+This dataset contains historical trading activity from Hyperliquid, including trade execution details, position sizes, PnL, fees, and timestamps.
+
+**Source:**  
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
